@@ -1,0 +1,4 @@
+﻿  main.cpp
+A:\circleGenerator\circleGenerator\main.cpp(28,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\circleGenerator\circleGenerator\main.cpp(29,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  circleGenerator.vcxproj -> A:\circleGenerator\Debug\circleGenerator.exe
